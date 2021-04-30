@@ -41,13 +41,13 @@ Range, Readings
 
 Start test-driven development:
 
-1. Establish quality parameters for your project: What is the maximum complexity you would allow? How much duplication would you consider unacceptable? What is the coverage you'll aim for? Adapt/adopt/extend the yml files from one of your workflow folders. CCN - 5 , Duplication - 3 lines, Coverage - 90%
+1. Establish quality parameters for your project: What is the maximum complexity you would allow? How much duplication would you consider unacceptable? What is the coverage you'll aim for? Adapt/adopt/extend the yml files from one of your workflow folders. **CCN - 5 , Duplication - 3 lines, Coverage - 90%**
 
-1. Write the smallest possible failing test. Fails for EmptyList
+1. Write the smallest possible failing test. **Fails for EmptyList**
 
-1. Write the minimum amount of code that'll make it pass. Checking for EmptyList
+1. Write the minimum amount of code that'll make it pass. **Checking for EmptyList**
 
-1. Write the next failing test. Fails for a non-continuous range input
+1. Write the next failing test. **Fails for a non-continuous range input**
 
 Implement one failing test and at least one passing test:
 
